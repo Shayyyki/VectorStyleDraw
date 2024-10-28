@@ -20,9 +20,12 @@ The file <style> conains several style image examples
 
 ## 
 clipdraw.py: transer the initial image into the vector image
-![](content/video/camel.avi?raw=true)
+![](content/video/camel.avi)
+
 ## 
 cliptexture.py: transer the initial image into the vector image with style from style image
 ![](content/video/camel_style2.avi?raw=true)
+
 ![](content/video/camel_style3.avi?raw=true)
+
 ![](content/video/camel_style7.avi?raw=true)
