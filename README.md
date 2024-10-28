@@ -2,7 +2,7 @@
 
 
 <br>
-This work presents VectorStyleDraw, an algorithm that synthesizes vecor style drawings based on initial input image and style input image. VectorStyleDraw, like CLIPDraw, does not require any training. It use a pre-trained CLIP language-image encoder to maximize similarity between the given initial image and a generated drawing. And it also use Earth Mover Distance (rEMD) as style loss. VectorStyleDraw preserves the characteristics of the initial image and the style of the style image well, presenting a unique and interesting image result
+This work presents VectorStyleDraw, an algorithm that synthesizes vecor style drawings based on initial input image and style input image. VectorStyleDraw, like CLIPDraw, does not require any training. It use a pre-trained CLIP language-image encoder to maximize similarity between the given initial image and a generated drawing. And it also use Earth Mover Distance (rEMD) as style loss. VectorStyleDraw preserves the characteristics of the initial image and the style of the style image well, presenting a unique and interesting image result.
 
 <br>
 
