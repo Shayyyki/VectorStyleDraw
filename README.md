@@ -8,7 +8,7 @@ The file <inputs> conains several initial image examples
 The file <style> conains style image examples
 <br>
 <br>
-![](content/res/framework.png?raw=true)
+  ![](content/res/framework.png?raw=true)
 <br>
 
 <br>
