@@ -4,6 +4,10 @@
 <br>
 
 <br>
+The file <inputs> conains several initial image examples
+The file <style> conains style image examples
+<br>
+<br>
 ![](content/res/framework.png?raw=true)
 <br>
 
@@ -13,6 +17,8 @@ clipdraw.py: transer the initial image into the vector image
 
 cliptexture.py: transer the initial image into the vector image with style from style image
 ![](content/video/famel_style2.avi?raw=true)
+
 ![](content/video/famel_style3.avi?raw=true)
+
 ![](content/video/famel_style6.avi?raw=true)
 <br>
